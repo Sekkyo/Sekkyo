@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Amazon Web Services, Google Cloud Platform, Microsoft Azure**
 
-- 📄 Know about my experiences [https://cv.tehforce.net](https://cv.tehforce.net)
+- 📄 Read about my experience: [https://cv.tehforce.net](https://cv.tehforce.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
