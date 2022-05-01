@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Amazon Web Services, Google Cloud Platform, Microsoft Azure**
 
-- ⌨️ Take a look at my professional GitHub contributions: [petersonjdNIH](https://github.com/petersonjdNIH)
+- ⌨️ Take a look at my professional GitHub contributions (sadly, most are private): [petersonjdNIH](https://github.com/petersonjdNIH)
 
 - 📄 Read about my experience: [https://cv.tehforce.net](https://cv.tehforce.net)
 
