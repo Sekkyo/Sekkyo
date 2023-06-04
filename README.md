@@ -3,7 +3,7 @@
 
 - 🧬 I’m currently working at [Advanced Research Projects Agency for Health (ARPA-H)](https://arpa-h.gov)
 
-- 💬 Ask me about **Amazon Web Services, Google Cloud Platform, Microsoft Azure**
+- 💬 Ask me about **Amazon Web Services, GitHub, Google Cloud Platform, Microsoft Azure**
 
 - ⌨️ Take a look at my professional GitHub contributions (sadly, most are private): [petersonjdNIH](https://github.com/petersonjdNIH)
 
