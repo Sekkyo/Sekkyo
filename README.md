@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.threads.net/@sekkyo" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/threads.svg" alt="sekkyo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joeldpeterson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeldpeterson" height="30" width="40" /></a>
 </p>
 
