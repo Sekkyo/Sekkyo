@@ -3,7 +3,7 @@
 
 - 🧬 I’m currently working at [Advanced Research Projects Agency for Health (ARPA-H)](https://github.com/arpa-h) & the [Department of Health and Human Services](https://github.com/hhs).
 
-- 💬 Ask me about all things **Apple, GitHub, Google, and Microsoft**, there's also a few dozen cloud providers I know about too.
+- 💬 Ask me about all things **Anthropic, Apple, GitHub, Google, and Microsoft**, there's also a few dozen cloud providers I know about too. I can talk your ear off about Agentic GitOps.
 
 - ⌨️ Take a look at my professional GitHub contributions (sadly, most are private): [petersonjdNIH](https://github.com/petersonjdNIH)
 
